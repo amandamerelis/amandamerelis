@@ -17,63 +17,43 @@
 Sou estudante de Sistemas de Informação, atualmente cursando o 5º período e atuando como estagiária. Meu foco, no momento, é o desenvolvimento back-end, apesar de almejar o famoso full-stack.  
   
 
-<div align="center">
-<img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" align="center" height="150" width="" />
-</div>  
-  
-
+<p align="center">
+  <img src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" align="center" height="150" width="" />
+</p>
 <br/>  
 
 
-## Languages and Tools  
+## Linguagens e Ferramentas 
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="40" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
 </div>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- 💼 Trabalhando atualmente na SIAD SISTEMAS;  
-  
-
-- 🚀 Estudando no momento: Node.js, Prisma, TypeScript;  
-
-
-</td><td valign="top" width="50%">
 
 <div align="right">
 <img src="https://thumbs.gfycat.com/WideDeadlyAngelfish-max-1mb.gif" align="right" height="150" width="" />
 </div>  
+<br/>
+<br/>
+<div display="inline-block">
+ <p align="left">- 💼 Trabalhando atualmente na SIAD SISTEMAS;</p>
+ <p align="left">- 🚀 Estudando no momento: Node.js, Prisma, TypeScript;</p>
+</div>
 
+<br/>
 
-</td></tr></table>  
+##
+<p align="center">
+<a href="https://github.com/amandamerelis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandamerelis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandamerelis&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amandamerelis&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamerelis&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
-<br />
-
-----
+<br/>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
