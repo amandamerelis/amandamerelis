@@ -34,7 +34,7 @@ Sou estudante de Sistemas de Informação, atualmente cursando o 5º período e 
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="40" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
 </div>  
-
+<br/>
 <div align="right">
 <img src="https://thumbs.gfycat.com/WideDeadlyAngelfish-max-1mb.gif" align="right" height="150" width="" />
 </div>  
@@ -50,8 +50,8 @@ Sou estudante de Sistemas de Informação, atualmente cursando o 5º período e 
 ##
 <p align="center">
 <a href="https://github.com/amandamerelis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandamerelis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandamerelis&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandamerelis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandamerelis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
