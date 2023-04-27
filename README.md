@@ -38,18 +38,9 @@ Sou estudante de Sistemas de Informação, atualmente cursando o 5º período e 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br/>
-<div align="right">
-<img src="https://thumbs.gfycat.com/WideDeadlyAngelfish-max-1mb.gif" align="right" height="150" width="" />
-</div>  
-<br/>
-<br/>
-<div display="inline-block">
- <p align="left">- 💼 Trabalhando atualmente na SIAD SISTEMAS;</p>
- <p align="left">- 🚀 Estudando no momento: Node.js, Prisma, TypeScript;</p>
-</div>
 
 <br/>
+
 
 ##
 <p align="center">
