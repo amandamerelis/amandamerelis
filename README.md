@@ -9,8 +9,8 @@
 
 
 ### What's up, devs?   
-Sou estudante de Sistemas de Informação, atualmente cursando o 8º período e atuando como desenvolvedora web.
-No momento estou trabalhando com Java e Spring Boot no backend, SQL Server para banco de dados e Typescript e Angular no frontend. 
+Sou bacharel em Sistemas de Informação e atuo como desenvolvedora web.
+Minha stack de trabalho no momento é React + Typescript no frontend e .NET no backend. 
   
 
 <p align="center">
@@ -25,6 +25,10 @@ No momento estou trabalhando com Java e Spring Boot no backend, SQL Server para 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
